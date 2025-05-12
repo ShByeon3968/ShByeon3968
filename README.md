@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm SangHyeon! 👋</h1>
+<h1 align="center">SangHyun Byun</h1>
 
 <p align="center">
   Deep Learning Engineer | Unreal Engine Developer
@@ -16,17 +16,15 @@
 ### 🛠️ Tech Stack
 - **Languages**: Python, C++, C#
 - **AI Frameworks**: PyTorch, TensorFlow,ONNX
-- **Tools**: OpenCV, MMDetection, Unreal Engine, Unity, Git
-- **Other**: Docker, FastAPI, Streamlit
+- **Tools**: OpenCV, MMDetection,MMPose, Unreal Engine, Unity, Git
+- **Other**: Docker, Gradio, Streamlit
 
 ---
 
 ### 🔥 My Projects
 | Name | Description | Tech |
 |------|-------------|------|
-| [Pose-based Fight Detection]([https://github.com/yourname/fight-detection](https://github.com/ShByeon3968/Diffusion-Tool)) | Detects abnormal behavior in CCTV | YOLOv8, MMPose, LSTM |
-| [Diffusion Style Transfer Tool](https://github.com/yourname/diffusion-style-transfer) | Anime-style background generator | Stable Diffusion, ControlNet |
-| [3D Scene Reconstruction](https://github.com/yourname/3d-recon) | From image to 3D mesh pipeline | Zero123++, NeRF |
+| [Diffusion Based 3D Mesh Generator]((https://github.com/ShByeon3968/Diffusion-Tool)) | Generate 3D Mesh from text input | Diffusion, Image-to-3D |
 
 ---
 
@@ -39,6 +37,5 @@
 ---
 
 ### 📫 Contact
-- Email: your_email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)
+- Email: egoist12276@gmail.com
 
