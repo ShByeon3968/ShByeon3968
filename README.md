@@ -9,7 +9,7 @@
 ### 🌱 About Me
 - 🔭 I’m currently working on **Image Software Developer using Unreal Engine**
 - 🌱 I’m learning **Diffusion Models**, **3D Mesh Generation**, **3D Pose Estimation** and Image Based Deep-Learning in general.
-- ✍️ I write blog posts on AI implementation & theory at [My Blog]((https://ggoosae.tistory.com/))
+- ✍️ I write blog posts on AI implementation & theory at [My Blog](https://ggoosae.tistory.com/)
 
 ---
 
@@ -24,7 +24,7 @@
 ### 🔥 My Projects
 | Name | Description | Tech |
 |------|-------------|------|
-| [Diffusion Based 3D Mesh Generator]((https://github.com/ShByeon3968/Diffusion-Tool)) | Generate 3D Mesh from text input | Diffusion, Image-to-3D |
+| [Diffusion Based 3D Mesh Generator](https://github.com/ShByeon3968/Diffusion-Tool) | Generate 3D Mesh from text input | Diffusion, Image-to-3D |
 
 ---
 
