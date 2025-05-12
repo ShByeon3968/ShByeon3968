@@ -7,7 +7,7 @@
 ---
 
 ### 🌱 About Me
-- 🔭 I’m currently working on **AI-based real-time object detection and behavior recognition system**
+- 🔭 I’m currently working on **Image Software Developer using Unreal Engine**
 - 🌱 I’m learning **Diffusion Models**, **3D Mesh Generation**, **3D Pose Estimation** and Image Based Deep-Learning in general.
 - ✍️ I write blog posts on AI implementation & theory at [My Blog]((https://ggoosae.tistory.com/))
 
@@ -30,8 +30,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShByeon3968&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShByeon3968&layout=compact&theme=github_dark" height="150" />
 </p>
 
 ---
