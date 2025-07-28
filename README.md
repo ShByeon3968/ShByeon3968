@@ -24,7 +24,8 @@
 ### 🔥 My Projects
 | Name | Description | Tech |
 |------|-------------|------|
-| [Diffusion Based 3D Mesh Generator](https://github.com/ShByeon3968/Diffusion-Tool) | Generate 3D Mesh from text input | Diffusion, Image-to-3D |
+| [Prompt2Drive](https://github.com/ShByeon3968/Diffusion-Tool) | Generate 3D Mesh from text input | Stable Diffusion, Image-to-3D |
+| [Fashion System](https://github.com/ShByeon3968/Diffusion-Tool) | Fashion Redesign & fitting | Stable Diffusion, Virtual Try-on |
 
 ---
 
