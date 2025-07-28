@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 - **Languages**: Python, C++, C#
 - **AI Frameworks**: PyTorch, TensorFlow,ONNX
 - **Tools**: OpenCV, MMDetection,MMPose, Unreal Engine, Unity, Git
@@ -21,15 +21,20 @@
 
 ---
 
-### 🔥 My Projects
+### My Projects
 | Name | Description | Tech |
 |------|-------------|------|
 | [Prompt2Drive](https://github.com/ShByeon3968/Diffusion-Tool) | Generate 3D Mesh from text input | Stable Diffusion, Image-to-3D |
 | [Fashion System](https://github.com/ShByeon3968/CLIP_Fashion) | Fashion Redesign & fitting | Stable Diffusion, Virtual Try-on |
 
 ---
+### Papers
+| Name | Description | Link | Authorship |
+|------|-------------|------|------|
 
-### 📈 GitHub Stats
+---
+
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShByeon3968&show_icons=true&theme=github_dark" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShByeon3968&layout=compact&theme=github_dark" height="150" />
@@ -37,6 +42,6 @@
 
 ---
 
-### 📫 Contact
+### Contact
 - Email: egoist12276@gmail.com
 
