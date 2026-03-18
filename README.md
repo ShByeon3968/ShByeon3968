@@ -1,7 +1,7 @@
 <h1 align="center">SangHyun Byun</h1>
 
 <p align="center">
-  Deep Learning Engineer | Unreal Engine Developer
+  AI Based Software Engineer
 </p>
 
 ---
