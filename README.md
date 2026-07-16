@@ -16,7 +16,7 @@
 
 AI Software Engineer specializing in **Computer Vision**, **Deep Learning Inference Optimization**, and **Synthetic Data Generation**.
 
-- Currently working as an **AI Software Engineer at RaonPeople**
+- Currently working as an **AI Software Engineer at LaonPeople**
 - Previously developed Unreal Engine–based simulation and synthetic-data software at **Inno Simulation**
 - Experienced in building end-to-end vision AI pipelines: data generation, model training, ONNX deployment, TensorRT optimization, and edge inference
 - Interested in **defense/aerospace vision systems**, UAV Ground Control Stations (GCS), object detection, anomaly detection, and real-time AI systems
