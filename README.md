@@ -1,130 +1,56 @@
-<h1 align="center">SangHyun Byun</h1>
+<h1 align="center">변상현 · SangHyun Byun</h1>
 
 <p align="center">
-  <b>AI Software Engineer | Computer Vision · Edge AI · Synthetic Data</b>
+  <b>C++·C# 응용 SW 개발자</b><br>
+  AI 모델과 SDK를 실제 장비에서 멈추지 않고 돌아가는 소프트웨어로 만듭니다<br>
+  <sub>C++/C# application engineer who turns AI engines into shippable software</sub>
 </p>
 
 <p align="center">
-  <a href="mailto:egoist12276@gmail.com">Email</a> ·
-  <a href="https://github.com/ShByeon3968">GitHub</a> ·
+  <a href="mailto:<기존 이메일>">Email</a> ·
   <a href="https://ggoosae.tistory.com/">Blog</a>
 </p>
 
 ---
 
-## 👋 About Me
+## 소개
 
-AI Software Engineer specializing in **Computer Vision**, **Deep Learning Inference Optimization**, and **Synthetic Data Generation**.
+- **라온피플**에서 AI 비전 엔진을 C++·C# 제품 소프트웨어로 만들고 있습니다. (2025.10 ~ 현재)
+- 이전에는 **이노시뮬레이션**에서 Unreal Engine 기반 체험 시뮬레이터를 개발했습니다. (2023.12 ~ 2025.10)
+- 중앙대학교 첨단영상대학원 석사 (Computer Vision · Deep Learning)
 
-- Currently working as an **AI Software Engineer at LaonPeople**
-- Previously developed Unreal Engine–based simulation and synthetic-data software at **Inno Simulation**
-- Experienced in building end-to-end vision AI pipelines: data generation, model training, ONNX deployment, TensorRT optimization, and edge inference
-- Interested in **defense/aerospace vision systems**, UAV Ground Control Stations (GCS), object detection, anomaly detection, and real-time AI systems
-- M.S. in Advanced Imaging Science, Multimedia & Film, **Chung-Ang University**
+## 잘하는 일
 
----
+| 역량 | 내용 |
+|---|---|
+| **C++·C# 경계 설계** | 네이티브 SDK를 C++ DLL로 감싸 C# 앱에 연결합니다. C ABI, P/Invoke, 핸들 수명, 오류 코드 규약 |
+| **멈추지 않는 데스크톱 SW** | SDK 전용 스레드, bounded Channel 파이프라인, 취소 처리, WPF MVVM, xUnit |
+| **AI를 제품에 넣기** | TensorRT 혼합 정밀도·부분 양자화, OpenVINO CPU 추론, 온디바이스 VLM |
+| **장비·통신 통합** | 시리얼·TCP·UDP 장비 연동, 여러 화면의 상태 동기화 (Unreal Engine) |
 
-## 🧩 Core Expertise
+## 업무에서 만든 것
 
-- **Computer Vision**: Object Detection, Multi-Object Tracking, Pose Estimation, Anomaly Detection, Action Recognition
-- **Edge AI Optimization**: ONNX, TensorRT C++ API, NVIDIA Jetson, FP16/INT8 Quantization, PTQ, latency & memory optimization
-- **Synthetic Data**: Unreal Engine–based simulation, domain randomization, AI training-data pipeline design
-- **AI Applications**: Industrial visual inspection, video surveillance intelligence, UAV/GCS software
-- **Software Engineering**: C++/C#, WPF, MFC, Python, multi-threaded inference pipelines
+회사 코드는 공개할 수 없어 한 일과 결과만 적습니다.
 
----
-
-## 🛠 Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-</p>
-
-### AI / Computer Vision
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" />
-  <img src="https://img.shields.io/badge/MMDetection-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/MMPose-0078D4?style=flat-square" />
-</p>
-
-### Simulation / Application
-<p>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MFC-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
+| 작업 | 한 일 | 결과 |
 |---|---|---|
-| **Industrial Vision Inspection** | C++/MFC-based visual-inspection application with object detection, inspection result logging, and dashboard-oriented workflow | C++, MFC, OpenCV, YOLO, ONNX |
-| **Anomaly Detection for Manufacturing** | Industrial anomaly-detection pipeline using PatchCore/PaDiM, with ONNX export and edge deployment optimization | Python, PyTorch, PatchCore, PaDiM, ONNX, TensorRT |
-| **UAV Ground Control Station** | Ground Control Station software and UAV simulator integration project for real-time monitoring and control | C#, WPF, UAV Simulator, UDP/DDS |
-| **Intelligent Fight Detection** | Video analytics pipeline combining person detection, ByteTrack tracking, spatio-temporal pair analysis, and fight-event recognition | Python, DEIMv2, ByteTrack, PyTorch, OpenCV |
-| [**Prompt2Drive**](https://github.com/ShByeon3968/Diffusion-Tool) | Text-to-3D generation experiment using diffusion models and image-to-3D techniques | Stable Diffusion, Image-to-3D |
-| [**CLIP Fashion**](https://github.com/ShByeon3968/CLIP_Fashion) | Fashion redesign and virtual try-on research project | CLIP, Stable Diffusion, Virtual Try-on |
+| **CPU 비전 검사 프로그램** (단독 개발) | C++17 래퍼 DLL + C# WPF, SDK 전용 스레드와 4단 처리 파이프라인 | SDK 순수 추론 분류 약 0.2ms · 검출 약 10ms (256×256, Intel CPU), xUnit 테스트 60여 개, AW2026 전시 |
+| **비전 모델 학습 SDK의 C API·CLI** (C++ 계층 단독 개발) | 순수 C 함수 경계, 학습 엔진 프로세스 실행, 출력·종료 코드 규약 | 학습 작업 4종 지원, 명령줄 자격증명 노출 제거 |
+| **WPF 데스크톱 앱 안정화** | 런타임 오류 전수 점검, 원인별 재발 방지 | 설계 문제 24건 수정, 원인 5가지로 분류, xUnit 테스트 289개 |
+| **엣지 AI 추론 최적화** | Jetson Orin Nano에서 TensorRT 혼합 정밀도·부분 양자화 | 모델 추론 약 20~30ms → 6~7ms (640×640 · 배치 4, FP16 대비) |
+| **전차 체험 시뮬레이터** (팀) | Unreal Engine 화면·차량 동역학, 시리얼·TCP·UDP 장비 연동 | 화면 간 위치·피격 시점 불일치 해결, KADEX 2024 전시 |
 
----
 
-## 🔬 Research Interests
+## 논문 · 특허
 
-- Vision AI for defense, aerospace, and autonomous systems
-- Real-time object detection and multi-object tracking
-- Synthetic data generation for robust AI training
-- Efficient deep-learning inference on edge devices
-- 3D human pose estimation and digital humans
-- Industrial anomaly detection and visual inspection
+- **Transfer Learning based Parameterized 3D Mesh Deformation with 2D Stylized Cartoon Character** — KSII Transactions on Internet and Information Systems, 2023 (제1저자) · [DOI](https://doi.org/10.3837/tiis.2023.11.012)
+- **Harnessing Synthetic Data for Enhanced Detection of Pine Wilt Disease: An Image Classification Approach** — Computers and Electronics in Agriculture, 2024 (SCIE, 제2저자) · [DOI](https://doi.org/10.1016/j.compag.2024.108690)
+- **Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application** — NeurIPS 2023 Workshop on ML for Creativity and Design, 구두 발표
+- 특허 등록 2건 · 출원 1건 — 2D 캐릭터 기반 3D 메쉬 변형 방법(등록), 인터랙티브 가상 현미경 제공 장치(등록), 합성 데이터 기반 소나무재선충병 검출 시스템(출원)
 
----
+## 기술
 
-## 📝 Publications & Intellectual Property
-
-- **SCIE-indexed papers**: 2
-- **NeurIPS paper**: 1
-- **Patents**: 3
-
-| Type | Title | Link |
-|---|---|---|
-| SCIE | `YOUR_SCIE_PAPER_TITLE_1` | [Paper](YOUR_PAPER_LINK) |
-| SCIE | `YOUR_SCIE_PAPER_TITLE_2` | [Paper](YOUR_PAPER_LINK) |
-| NeurIPS | `YOUR_NEURIPS_PAPER_TITLE` | [Paper](YOUR_PAPER_LINK) |
-| Patent | `YOUR_PATENT_TITLE_1` | [Patent](YOUR_PATENT_LINK) |
-
----
-
-## ✍️ Technical Writing
-
-I write about computer vision, AI implementation, deep learning theory, and deployment engineering.
-
-- [Visit my technical blog →](https://ggoosae.tistory.com/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShByeon3968&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShByeon3968&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
----
-
-## 📫 Contact
-
-- **Email**: [egoist12276@gmail.com](mailto:egoist12276@gmail.com)
-- **Blog**: [ggoosae.tistory.com](https://ggoosae.tistory.com/)
-- **GitHub**: [github.com/ShByeon3968](https://github.com/ShByeon3968)
+- **언어:** C++17 · C# · Python
+- **응용 SW:** .NET 8 WPF · Qt · Win32 API · xUnit
+- **AI:** PyTorch · OpenCV · TensorRT · OpenVINO · NVIDIA Jetson
+- **그 외:** Unreal Engine · Unity · FastAPI · Docker · Git
